@@ -103,7 +103,7 @@ class DoSoChKa:
             else:
                 vert = (self.k + self.l + self.m - self.n ) // 2
                 gor =(self.k + self.l - self.m + self.n ) // 2
-                if vert < 1 or vert > 8 or gor < 1 or gor > 8 :
+                if vert < 1 or vert > 8 or gor < 1 or gor > 8:
                     vert = (self.m + self.k + self.n - 1) // 2
                     gor = (self.m - self.k + self.n + 1) // 2
                 print('\nе) Слон (красное поле) не может за один ход добраться до выбранного поля (синее поле)\nНо можно добраться через поле: ',
