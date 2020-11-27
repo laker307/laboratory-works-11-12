@@ -15,7 +15,7 @@ python Chess.py
 ____
 ## Screenshot
 ![Alt-текст](https://i.pinimg.com/originals/b1/ee/02/b1ee026504922a46cf118488faa34771.png)
-![Alt-текст](https://i.pinimg.com/originals/88/43/f8/8843f8b72bf0ff28fdcbd65f0fd2fd9d.png)
+![Alt-текст](https://i.pinimg.com/originals/3a/12/ed/3a12edb1652a25bcffa2b4243ca53e67.png)
 
 ____
 ## Дополнительная информация
